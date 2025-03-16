@@ -1,7 +1,8 @@
 ## Hi, i'm Roberto
+## 17 y/o, Italian
 
-- 🔭 I’m currently working on school projects, like my videogame and other. <\br>
-- 🌱 I’m currently learning OOP and front-end developing <\br>
+- 🔭 I’m currently working on school projects, like my videogame and other.
+- 🌱 I’m currently learning OOP and front-end developing.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rob__erto_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:robertocarello007@gmail.com) 

@@ -1,5 +1,5 @@
-## Hi, i'm Roberto
-## 17 y/o, Italian
+## Hi, i'm Roberto 
+im 17 y/o, Italian 🤌
 
 - 🔭 I’m currently working on school projects, like my videogame and other.
 - 🌱 I’m currently learning OOP and front-end developing.

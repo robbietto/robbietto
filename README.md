@@ -21,7 +21,7 @@ I'm 17 y/o, Italian 🤌
 ---
 
 ## 📊 GitHub Stats:  
-![Metrics](https://github.com/robbietto/robbietto/blob/main/metrics.svg)  
+![Metrics](https://raw.githubusercontent.com/robbietto/robbietto/main/metrics.svg)
 
 ---
 

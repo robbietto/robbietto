@@ -15,7 +15,7 @@ jobs:
       - name: Genera il file metrics con lingue, statistiche e attività
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # Token di accesso
+          token: ${{ secrets.METRICS_TOKEN }} #Token di accesso
           base: header, repositories, metadata, activity
           config_timezone: Europe/Rome
 

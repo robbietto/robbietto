@@ -12,7 +12,7 @@ jobs:
       - name: Checkout del repository
         uses: actions/checkout@v2
 
-      - name: Genera il file metrics con lingue, statistiche, attività e Spotify
+      - name: Genera il file metrics con lingue, statistiche e attività
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -32,11 +32,3 @@ jobs:
           
           # Calendario delle attività su GitHub
           plugin_calendar: yes
-          
-          # Spotify - Mostra la musica in ascolto
-          plugin_music: yes
-          plugin_music_provider: spotify
-          plugin_music_mode: recent  # Può essere "recent" o "playlist"
-          plugin_music_limit: 1
-          plugin_music_time_range: short
-          plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}

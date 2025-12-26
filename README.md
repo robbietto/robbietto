@@ -1,5 +1,5 @@
 ## Hi, I'm Roberto  
-18 y/0, Italian 
+18 y/o, Italian 
 
 
 ## 🌐 Socials:

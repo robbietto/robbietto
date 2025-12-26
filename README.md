@@ -1,8 +1,5 @@
 ## Hi, I'm Roberto  
-I'm 17 y/o, Italian 🤌  
-
-- 🔭 I’m currently working on school projects or personal ones.  
-- 🌱 I’m currently learning backend and front-end developing.  
+18 y/0, Italian 
 
 
 ## 🌐 Socials:
